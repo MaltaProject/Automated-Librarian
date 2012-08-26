@@ -1,0 +1,17 @@
+<XML>
+<version>XMLLib V1.0</version>
+<book>
+<title>TEST</title>
+<author>Author</author>
+<genre>GENRE</genre>
+<ISBN>ISBN</ISBN>
+<bookID>2</bookID>
+</book>
+<book>
+<title>Title of Book</title>
+<author>Author of Book</author>
+<genre>Genre of Book</genre>
+<ISBN>ISBN of Book</ISBN>
+<bookID>3</bookID>
+</book>
+</XML>

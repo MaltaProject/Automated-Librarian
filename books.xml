@@ -1,0 +1,10 @@
+<XML>
+<version>XMLLib V1.0</version>
+<book>
+<title>Encyclopedia Britannica</title>
+<author>William Benton Publishing</author>
+<genre>Reference</genre>
+<ISBN>0-85229-162-0</ISBN>
+<bookID>1</bookID>
+</book>
+</XML>
